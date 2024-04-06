@@ -42,7 +42,7 @@ for title in titles[:3]:
                     {"role": "user", "content": f"{main_text}: {prompt}"}])
 
 # Enviando as respostas para o Google Sheets
-    presposta = (response['choices'][0]['message']['content'])
+    resposta = (response['choices'][0]['message']['content'])
     sheet.append_row([title_text, link, resposta, date_tag])
 
     print(response['choices'][0]['message']['content'])
