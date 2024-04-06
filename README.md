@@ -21,3 +21,6 @@ Usamos a API da OpenAi para destacar a frase mais impactante do discurso, identi
 
 Utilizando a API do Google Sheets, armazenamos os dados obtidos.  
 
+### Grupo
+ Clara Almeida, Gabriela Bertolo, Melissa Duarte, Michelly Neris e Nicole Lacerda
+
