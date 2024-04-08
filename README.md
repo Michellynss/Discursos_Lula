@@ -4,7 +4,7 @@ Projeto final da disciplina de Machine Learning do Master em Jornalismo de Dados
 Neste trabalho, usamos a API da OpenAI para analisar os discursos do presidente Lula.
 
 ### Bibliotecas
-- [openia](https://platform.openai.com/docs/libraries/python-library)
+- [openai](https://platform.openai.com/docs/libraries/python-library)
      > $ pip install openai
      
 - [gspread](https://docs.gspread.org/en/v6.0.0/)
